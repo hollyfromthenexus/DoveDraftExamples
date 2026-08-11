@@ -1,3 +1,7 @@
+# DoveDraftExamples specific ignores
+addons/DoveDraft
+addons/YarnSpinner-Godot
+
 # Godot 4+ specific ignores
 .godot/
 .nomedia
@@ -15,3 +19,12 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# C#-specific ignores
+*.csproj.old
+
+# VSCode-specific ignores
+.vscode/
+
+# FL Studio ignores
+sound_src/**/Backup/
