@@ -1,10 +1,11 @@
 {
-  "projectFileVersion": 4,
+  "projectFileVersion": 3,
   "sourceFiles": [
     "YarnScripts/**/*.yarn"
   ],
   "excludeFiles": [],
   "localisation": {},
   "baseLanguage": "en",
-  "compilerOptions": {}
+  "compilerOptions": {},
+  "definitionsFiles": []
 }
